@@ -92,10 +92,10 @@
   },
   {
     "id": "8",
-    "name": "ค่าโทรศัพท์รายเดือน",
-    "price": 399,
+    "name": "ค่าเน็ตมือถือรายเดือน",
+    "price": 479,
     "cycle": "monthly",
-    "billingDay": 28,
+    "billingDay": 12,
     "billingMonth": 1,
     "category": "utility",
     "icon": "cellphone",
