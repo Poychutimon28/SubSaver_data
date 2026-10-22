@@ -128,5 +128,18 @@
     "color": "#113CCF",
     "status": "cancelled",
     "note": "ยกเลิกแล้ว ไม่ค่อยได้ดู"
+  },
+  {
+    "id": "11",
+    "name": "BiliBili",
+    "price": 99,
+    "cycle": "monthly",
+    "billingDay": 20,
+    "billingMonth": 1,
+    "category": "entertainment",
+    "icon": "television-classic",
+    "color": "#113CCF",
+    "status": "active",
+    "note": ""
   }
 ]
